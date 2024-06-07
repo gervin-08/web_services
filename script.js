@@ -52,7 +52,7 @@ document.getElementById('darkModeToggle')
     // Header logo
     document.getElementById('logoImg').src = isDarkMode
       ? 'images/jhsereno-light.PNG'
-      : 'images/jhsereno-dark.PNG';
+      : 'images/jhsereno-dark.png';
 
     // Services logo
     document.getElementById('envImg').src = isDarkMode
